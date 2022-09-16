@@ -2,21 +2,21 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "FRETE"
+    "title": ""
   },
   "installments": {
     "show": true,
     "text": "Parcele em até 6x sem juros ",
-    "title": "PARCELAMENTO"
+    "title": ""
   },
   "exchange": {
     "show": true,
     "text": "Fabricação própria ",
-    "title": "PRODUÇÃO"
+    "title": ""
   },
   "promo": {
     "show": true,
     "text": "Botas e montarias personalizadas",
-    "title": "PERSONALIZAÇÃO"
+    "title": ""
   }
 }
