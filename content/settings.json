@@ -1,12 +1,12 @@
 {
   "domain": "selariakoski.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#94764c",
   "theme": {
     "bootswatch": "spacelab",
     "custom": "clean-white"
   },
-  "bg_color": "#000000",
+  "bg_color": "#94764c",
   "logo": "/img/uploads/download-1-.png",
   "name": "selariakoski",
   "short_name": "Selaria Koski LTDA",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/download-1-.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#7e5a5a",
+  "secondary_color": "#94764c",
   "icon": "/img/uploads/download-1-.png",
   "store_id": 45062,
   "description": "Selaria Koski é uma loja completa para quem ama o mundo dos cavalos e a cultura do nosso Sul do Brasil, trazendo sempre novidades no ramo e com fábrica própria em montaria e calçados campeiros e muitos itens personalizados.",
