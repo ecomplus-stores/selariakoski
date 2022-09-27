@@ -43,18 +43,15 @@
         {
           "link": "https://selariakoski.netlify.app/pilchas-adulto",
           "img": "/img/uploads/montarias-1-.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/montarias-2-.png",
           "link": "https://selariakoski.netlify.app/pilchas-infantil"
-        },
-        {
-          "img": "/img/uploads/montarias-3-.png",
-          "link": "https://selariakoski.netlify.app/chapeus"
-        },
-        {
-          "img": "/img/uploads/montarias-4-.png",
-          "link": "https://selariakoski.netlify.app/calcados"
         }
       ]
     },
