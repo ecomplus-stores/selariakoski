@@ -41,8 +41,11 @@
           "link": "https://selariakoski.netlify.app/selas"
         },
         {
-          "link": "https://selariakoski.netlify.app/vestuario",
+          "link": "https://selariakoski.netlify.app/pilchas-infantil",
           "img": "/img/uploads/montarias-1-.png"
+        },
+        {
+          "img": "/img/uploads/montarias-2-.png"
         }
       ]
     },
