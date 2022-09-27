@@ -43,6 +43,10 @@
         {
           "link": "https://selariakoski.netlify.app/pilchas-adulto",
           "img": "/img/uploads/montarias-1-.png"
+        },
+        {
+          "img": "/img/uploads/montarias-2-.png",
+          "link": "https://selariakoski.netlify.app/pilchas-infantil"
         }
       ]
     },
