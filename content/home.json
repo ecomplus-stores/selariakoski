@@ -63,6 +63,19 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/montarias-6-.png",
+          "link": "https://selariakoski.netlify.app/cutelaria"
+        },
+        {
+          "img": "/img/uploads/montarias-7-.png",
+          "link": "https://selariakoski.netlify.app/treino"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/montarias-3-.png",
           "link": "https://selariakoski.netlify.app/chapeus"
         },
